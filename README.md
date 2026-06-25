@@ -38,7 +38,7 @@ Focuses on employee retention and turnover trends:
 * Workforce Trends Over Time
 * Hiring vs. Separation Analysis
 
-  ![Retention Dashboard](Retention.png)
+![Retention Dashboard](Retention.png)
 
 ### 💡 Insights
 

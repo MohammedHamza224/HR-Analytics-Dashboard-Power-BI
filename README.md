@@ -24,6 +24,8 @@ Provides a high-level view of the workforce, including:
 * Workforce Distribution
 * Gender & Demographic Overview
   
+  ![Overview Dashboard](Overview.png)
+  
  
 
 ### 📈 Retention
@@ -36,6 +38,8 @@ Focuses on employee retention and turnover trends:
 * Workforce Trends Over Time
 * Hiring vs. Separation Analysis
 
+  ![Retention Dashboard](Retention.png)
+
 ### 💡 Insights
 
 Delivers deeper workforce analysis:
@@ -46,6 +50,8 @@ Delivers deeper workforce analysis:
 * Department Performance
 * Job Title Analysis
 * Business Unit Insights
+
+  ![Insights Dashboard](Insights.png)
   ________________________________________
 
 ## Key Metrics
@@ -82,10 +88,11 @@ ________________________________________
 * Dashboard Screenshots
 * Project Documentation
 ________________________________________
+ 
 ## Author
 
 **Mohamed Hamza**
 
-Data Analyst | Data Visulization Specialist| Project Management Professional
+Data Analyst | Data Visualization Specialist| Project Management Professional
 
 This project presents an interactive HR Analytics Dashboard developed in Power BI to help organizations monitor workforce performance, employee retention, and workforce demographics through data-driven insights.

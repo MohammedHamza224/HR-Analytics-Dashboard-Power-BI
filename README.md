@@ -24,7 +24,7 @@ Provides a high-level view of the workforce, including:
 * Workforce Distribution
 * Gender & Demographic Overview
   
-  <img src="Images/Overview.png" width="100%">
+ 
 
 ### 📈 Retention
 

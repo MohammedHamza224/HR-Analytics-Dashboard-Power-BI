@@ -23,9 +23,8 @@ Provides a high-level view of the workforce, including:
 * Average Salary
 * Workforce Distribution
 * Gender & Demographic Overview
- 
-
-<img src=" D:\Data Analysis\projects\Bower BI\HR Analysis DAshboard\HR Dataset\Overview.png" width="100%">
+  
+  <img src="Images/Overview.png" width="100%">
 
 ### 📈 Retention
 
